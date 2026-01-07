@@ -9,7 +9,6 @@ Core Expertise
 •	End-to-End Report Lifecycle: Full Power BI development cycle, including requirements gathering, functional documentation, and deployment across the organization.
 •	Data Modelling & Architecture: Designing and building robust Data Models that serve as the foundation for high-performing reports.
 •	DAX Optimization & Power Query: Skilled in writing complex DAX for advanced business logic and using Power Query (M) for data transformations and cleansing.
-
 •	Visualization & Advanced Analytics: Specialist in high-performance Power BI environments, building interactive and intuitive reports tailored for decision-makers in diverse fields such as Sales, Media, Finance, Hospitality, Tourism, and Contact Center Performance.
 
 Services
